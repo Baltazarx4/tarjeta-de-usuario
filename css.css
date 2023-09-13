@@ -1,0 +1,26 @@
+.encabezado{
+    position:relative;
+    background-color: rgb(7, 118, 131);
+    height: 100px;
+}
+
+.foto{
+    width: 100px;
+    position:absolute;
+    top: 47px;
+    left:30px;
+    border-radius: 50%;
+    border:solid 3px gray;
+    padding: 2px;
+}
+.cuerpo{
+    padding: 30px 15px;
+    border : 3px gray solid;
+}
+.foto2{
+    width: 15px;
+}
+.habilidades{
+    padding-top: 13px;
+    padding-bottom: 13px;
+}
